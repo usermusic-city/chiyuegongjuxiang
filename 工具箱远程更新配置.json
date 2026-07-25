@@ -1,7 +1,7 @@
 {
   "appUpdate": {
-    "latestVersionCode": 2,
-    "latestVersionName": "1.0.1",
+    "latestVersionCode": 1,
+    "latestVersionName": "1.0.0",
     "downloadUrl": "https://example.com/迷你工具盒-v1.0.0.apk",
     "updateDescription": "1. 初始版本发布\n2. 包含视频播放、网页浏览等基础功能",
     "forceUpdate": true
